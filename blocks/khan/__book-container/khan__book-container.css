@@ -1,0 +1,5 @@
+.khan__book-conteiner {
+  display: flex;
+  flex-direction: row;
+  column-gap: 48px;
+}

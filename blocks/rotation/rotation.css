@@ -1,0 +1,12 @@
+@keyframes pic_rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: pic_rotate linear 20s infinite;
+}

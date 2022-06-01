@@ -1,0 +1,10 @@
+.footer__column-link {
+  font-family: 'Inter', 'Arial', sans-serif;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
