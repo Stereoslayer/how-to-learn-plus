@@ -11,10 +11,3 @@
   src: url(../vendor/fonts/Inter/Inter-Regular.woff) format('woff');
   font-family: 'Inter';
 }
-
-@font-face {
-  font-weight: bold;
-  src: url(../vendor/fonts/Inter/Inter-SemiBold.woff2) format('woff2');
-  src: url(../vendor/fonts/Inter/Inter-SemiBold.woff) format('woff');
-  font-family: 'Inter-SemiBold';
-}
